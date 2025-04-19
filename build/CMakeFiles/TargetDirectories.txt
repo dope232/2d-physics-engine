@@ -1,0 +1,3 @@
+/home/dhan/cpp/ooadproject/build/CMakeFiles/2DPhysicsEngine.dir
+/home/dhan/cpp/ooadproject/build/CMakeFiles/edit_cache.dir
+/home/dhan/cpp/ooadproject/build/CMakeFiles/rebuild_cache.dir
