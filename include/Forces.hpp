@@ -1,10 +1,9 @@
 #pragma once
 #include <SFML/Graphics.hpp>
 
-// Forward declaration instead of including the header
 class PhysicsObject;
 
-// Define force types for easy identification
+
 enum class ForceType {
     GRAVITY,
     DRAG,
@@ -19,7 +18,7 @@ public:
     virtual ForceType getType() const = 0;
 };
 
-// Gravity force class
+
 class Gravity : public Forces {
 private:
     sf::Vector2f gravity;
